@@ -1,0 +1,5 @@
+For first time repository setup
+uv init
+uv venv
+uv add -r requirements.txt
+git branch -M main
