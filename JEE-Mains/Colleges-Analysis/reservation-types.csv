@@ -1,0 +1,7 @@
+Reservation_Type_ID,Reservation_Type,Name
+1,SC,Scheduled Caste
+2,ST,Scheduled Tribe
+3,General,Open
+4,OBC-NCL (Pwd),Other Backward Classes - Non-Creamy Layer (Person with Disability)
+5,EWS,Economically Weaker Section
+6,OBC-NCL,Other Backward Classes - Non-Creamy Layer
